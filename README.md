@@ -7,7 +7,7 @@
   </a>
 </p>
 
-# bbr_genomes: bacterial isolate genome pipeline
+# UKCMCB_genome: a Nextflow pipeline for bacterial isolate genomes
 
 [![DOI](https://zenodo.org/badge/1464297303.svg)](https://zenodo.org/badge/latestdoi/1464297303)
 [![Nextflow](https://img.shields.io/badge/nextflow-%E2%89%A525.10-23aa62.svg)](https://www.nextflow.io/)
