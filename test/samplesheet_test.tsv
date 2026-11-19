@@ -1,0 +1,4 @@
+sample_name	read1	read2
+test_buchnera	reads/test_buchnera_R1.fastq.gz	reads/test_buchnera_R2.fastq.gz
+test_rickettsia	reads/test_rickettsia_R1.fastq.gz	reads/test_rickettsia_R2.fastq.gz
+test_lowreads	reads/test_lowreads_R1.fastq.gz	reads/test_lowreads_R2.fastq.gz
