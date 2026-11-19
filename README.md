@@ -183,7 +183,13 @@ the [James Hutton Institute](https://www.hutton.ac.uk/).
 
 ## Citations
 
-If you use this pipeline, please cite it using the DOI above, together with the tools it runs:
+If you use this pipeline, please cite it:
+
+> Taketani RG, Clark IM, Thompson CMA, Bonnin JM, Stewart H, Malone JG, Jones S, Holden N,
+> Ryan MJ, Mauchline TH (2026) UKCMCB_genome: a Nextflow pipeline for bacterial isolate
+> genomes. Zenodo. [https://doi.org/10.5281/zenodo.24372823](https://doi.org/10.5281/zenodo.24372823)
+
+together with the tools it runs:
 
 - **fastp**: Chen S. (2023) Ultrafast one-pass FASTQ data preprocessing, quality control, and deduplication using fastp. *iMeta* 2:e107.
 - **SPAdes**: Prjibelski A. et al. (2020) Using SPAdes de novo assembler. *Curr Protoc Bioinformatics* 70:e102.
