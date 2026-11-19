@@ -1,4 +1,4 @@
-﻿<p align="right">
+<p align="right">
   <a href="https://agmicrobiomebase.org/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/images/cryobank_logo_dark.png">
