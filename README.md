@@ -1,4 +1,4 @@
-<p align="right">
+﻿<p align="right">
   <a href="https://agmicrobiomebase.org/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/images/cryobank_logo_dark.png">
@@ -9,7 +9,7 @@
 
 # bbr_genomes: bacterial isolate genome pipeline
 
-[![DOI](https://zenodo.org/badge/REPO_ID.svg)](https://zenodo.org/badge/latestdoi/REPO_ID)
+[![DOI](https://zenodo.org/badge/1464297303.svg)](https://zenodo.org/badge/latestdoi/1464297303)
 [![Nextflow](https://img.shields.io/badge/nextflow-%E2%89%A525.10-23aa62.svg)](https://www.nextflow.io/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -216,4 +216,4 @@ numbers: BB/T019492/1, BB/T019484/1, BB/T019700/1 and BB/T019808/1.
 This repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 See the [LICENSE](./LICENSE.txt) file for details.
 
-[![DOI](https://zenodo.org/badge/REPO_ID.svg)](https://zenodo.org/badge/latestdoi/REPO_ID)
+[![DOI](https://zenodo.org/badge/1464297303.svg)](https://zenodo.org/badge/latestdoi/1464297303)
